@@ -31,6 +31,14 @@ export default () => {
 
     const getColors = () => {
 
+        // const url = new URL('ApiColor');
+        // url.searchParams.append('PageSize', PageSize); //https://PROJECT_TOKEN.mockapi.io/tasks?completed=false
+        // url.searchParams.append('page', 1); //https://PROJECT_TOKEN.mockapi.io/tasks?completed=false&page=1
+        // url.searchParams.append('limit', 10); //https://PROJECT_TOKEN.mockapi.io/tasks?completed=false&page=1&limit=10
+
+
+        // MyFetch('ApiColor?' + 'PageSize=' + pageSize + '&page=' + currentPage )
+
         MyFetch('ApiColor')
             .then(res => {
                         setColors(res.data)

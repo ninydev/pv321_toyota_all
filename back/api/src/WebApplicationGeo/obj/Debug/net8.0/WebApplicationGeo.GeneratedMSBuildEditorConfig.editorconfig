@@ -17,247 +17,247 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplicationGeo
 build_property.RootNamespace = WebApplicationGeo
-build_property.ProjectDir = /home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/
+build_property.ProjectDir = /home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo
+build_property.MSBuildProjectDirectory = /home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Area/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Area/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJlYS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Area/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Area/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJlYS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Area/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Area/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJlYS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Area/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Area/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJlYS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Area/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Area/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXJlYS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarByColor/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarByColor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQnlDb2xvci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarConfiguration/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarConfiguration/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQ29uZmlndXJhdGlvbi9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarConfiguration/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarConfiguration/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQ29uZmlndXJhdGlvbi9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarConfiguration/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarConfiguration/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQ29uZmlndXJhdGlvbi9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarConfiguration/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarConfiguration/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQ29uZmlndXJhdGlvbi9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarConfiguration/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarConfiguration/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyQ29uZmlndXJhdGlvbi9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarModel/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarModel/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTW9kZWwvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarModel/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarModel/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTW9kZWwvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarModel/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarModel/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTW9kZWwvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarModel/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarModel/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTW9kZWwvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CarModel/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CarModel/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FyTW9kZWwvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/City/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/City/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/City/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/City/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/City/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/City/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/City/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/City/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/City/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/City/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/CityByCountries/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/CityByCountries/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2l0eUJ5Q291bnRyaWVzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Colors/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Colors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Colors/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Colors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Colors/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Colors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Colors/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Colors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Colors/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Colors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ColorsHandMade/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ColorsHandMade/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29sb3JzSGFuZE1hZGUvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ConfigurationColor/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ConfigurationColor/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uZmlndXJhdGlvbkNvbG9yL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ConfigurationColor/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ConfigurationColor/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uZmlndXJhdGlvbkNvbG9yL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ConfigurationColor/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ConfigurationColor/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uZmlndXJhdGlvbkNvbG9yL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ConfigurationColor/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ConfigurationColor/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uZmlndXJhdGlvbkNvbG9yL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ConfigurationColor/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ConfigurationColor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29uZmlndXJhdGlvbkNvbG9yL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Country/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Country/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Country/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Country/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Country/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Country/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Country/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Country/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Country/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Country/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRyeS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/GeoPage/SomePage.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/GeoPage/SomePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvR2VvUGFnZS9Tb21lUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Home/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Home/Privacy.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Page/ColorPage.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Page/ColorPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZS9Db2xvclBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Region/Create.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Region/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaW9uL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Region/Delete.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Region/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaW9uL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Region/Details.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Region/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaW9uL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Region/Edit.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Region/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaW9uL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Region/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Region/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaW9uL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/RegionHandMade/ShowForm.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/RegionHandMade/ShowForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaW9uSGFuZE1hZGUvU2hvd0Zvcm0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/SearchColor/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/SearchColor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoQ29sb3IvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/SearchGeo/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/SearchGeo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VhcmNoR2VvL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Shared/Error.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Shared/_OrderBy.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Shared/_OrderBy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19PcmRlckJ5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Shared/_Pagination.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Shared/_Pagination.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19QYWdpbmF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ShowAllCars/Colors.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ShowAllCars/Colors.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvd0FsbENhcnMvQ29sb3JzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/ShowAllCars/Index.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/ShowAllCars/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvd0FsbENhcnMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/_ViewImports.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/_ViewStart.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/Views/Shared/_Layout.cshtml]
+[/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9p0b8f9gj2

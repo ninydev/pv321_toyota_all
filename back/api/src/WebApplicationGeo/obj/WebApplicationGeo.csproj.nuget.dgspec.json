@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo.csproj": {}
+    "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/WebApplicationGeo.csproj": {}
   },
   "projects": {
-    "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo.csproj": {
+    "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/WebApplicationGeo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo.csproj",
+        "projectUniqueName": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/WebApplicationGeo.csproj",
         "projectName": "WebApplicationGeo",
-        "projectPath": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo.csproj",
+        "projectPath": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/WebApplicationGeo.csproj",
         "packagesPath": "/home/keeper/.nuget/packages/",
-        "outputPath": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/obj/",
+        "outputPath": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/keeper/.nuget/NuGet/NuGet.Config"

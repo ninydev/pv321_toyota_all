@@ -9,6 +9,7 @@ import InputReactiveComponent from "./components/InputReactiveComponent";
 import VendorsViewLayout from "./components/vendorsView/VendorsViewLayout";
 import ColorsWrapper from "./components/colors/ColorsWrapper";
 import ToastifyComponent from "./components/helpers/ToastifyComponent";
+import MockApiWrapper from "./components/mockApi/MockApiWrapper";
 
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
     <div className="App">
       <Header />
         <main>
-            <ColorsWrapper />
+            <MockApiWrapper />
         </main>
       <Footer />
         <ToastContainer />

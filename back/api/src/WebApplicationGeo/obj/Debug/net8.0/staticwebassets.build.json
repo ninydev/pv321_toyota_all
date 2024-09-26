@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1kpZumOf66d4faL+Gb/8SWgqWLgXISPtcx236PbTn1s=",
+  "Hash": "cNRZFCv0zQRpiSKRuTkArxwY5l8cGe6GqtfLeZc9exo=",
   "Source": "WebApplicationGeo",
   "BasePath": "_content/WebApplicationGeo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebApplicationGeo/wwwroot",
       "Source": "WebApplicationGeo",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/obj/Debug/net8.0/scopedcss/bundle/WebApplicationGeo.styles.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/obj/Debug/net8.0/scopedcss/bundle/WebApplicationGeo.styles.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Computed",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "WebApplicationGeo.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/obj/Debug/net8.0/scopedcss/bundle/WebApplicationGeo.styles.css"
+      "OriginalItemSpec": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/obj/Debug/net8.0/scopedcss/bundle/WebApplicationGeo.styles.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/obj/Debug/net8.0/scopedcss/projectbundle/WebApplicationGeo.bundle.scp.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/obj/Debug/net8.0/scopedcss/projectbundle/WebApplicationGeo.bundle.scp.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Computed",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "WebApplicationGeo.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/obj/Debug/net8.0/scopedcss/projectbundle/WebApplicationGeo.bundle.scp.css"
+      "OriginalItemSpec": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/obj/Debug/net8.0/scopedcss/projectbundle/WebApplicationGeo.bundle.scp.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/css/site.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/css/site.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/favicon.ico",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/favicon.ico",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/js/site.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/js/site.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1195,10 +1195,29 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/storage/colors/Screenshot from 2024-09-07 18-29-44.png",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/colors/ReactVueAngular.png",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
+      "BasePath": "_content/WebApplicationGeo",
+      "RelativePath": "storage/colors/ReactVueAngular.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/storage/colors/ReactVueAngular.png"
+    },
+    {
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/colors/Screenshot from 2024-09-07 18-29-44.png",
+      "SourceId": "WebApplicationGeo",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "storage/colors/Screenshot from 2024-09-07 18-29-44.png",
       "AssetKind": "All",
@@ -1214,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/storage/colors/Screenshot from 2024-09-07 18-29-44.png"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/storage/colors/Screenshot from 2024-09-07 18-35-18.png",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/colors/Screenshot from 2024-09-07 18-35-18.png",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "storage/colors/Screenshot from 2024-09-07 18-35-18.png",
       "AssetKind": "All",
@@ -1233,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/storage/colors/Screenshot from 2024-09-07 18-35-18.png"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/storage/colors/Золотистий металік (5C2).JPG",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/colors/Золотистий металік (5C2).JPG",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "storage/colors/Золотистий металік (5C2).JPG",
       "AssetKind": "All",
@@ -1252,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/storage/colors/Золотистий металік (5C2).JPG"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/storage/colors/Сріблястий металік (1L0).JPG",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/colors/Сріблястий металік (1L0).JPG",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "storage/colors/Сріблястий металік (1L0).JPG",
       "AssetKind": "All",
@@ -1271,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/storage/colors/Сріблястий металік (1L0).JPG"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/storage/colors/Червоний перламутр (3U5).JPG",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/colors/Червоний перламутр (3U5).JPG",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "storage/colors/Червоний перламутр (3U5).JPG",
       "AssetKind": "All",
@@ -1290,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/storage/colors/Червоний перламутр (3U5).JPG"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/storage/configuration_colors/red_3U5_FB10.jpg",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/configuration_colors/red_3U5_FB10.jpg",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "storage/configuration_colors/red_3U5_FB10.jpg",
       "AssetKind": "All",
@@ -1309,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/storage/configuration_colors/red_3U5_FB10.jpg"
     },
     {
-      "Identity": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/storage/configuration_colors/yellow_5C2_FB10.jpg",
+      "Identity": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/storage/configuration_colors/yellow_5C2_FB10.jpg",
       "SourceId": "WebApplicationGeo",
       "SourceType": "Discovered",
-      "ContentRoot": "/home/keeper/RiderProjects/pv321_asp/WebApplicationGeo/WebApplicationGeo/WebApplicationGeo/wwwroot/",
+      "ContentRoot": "/home/keeper/PhpstormProjects/pv321_toyota_all/back/api/src/WebApplicationGeo/wwwroot/",
       "BasePath": "_content/WebApplicationGeo",
       "RelativePath": "storage/configuration_colors/yellow_5C2_FB10.jpg",
       "AssetKind": "All",
