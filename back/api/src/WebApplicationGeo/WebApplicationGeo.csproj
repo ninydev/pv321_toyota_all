@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.8" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.8">
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        <PrivateAssets>all</PrivateAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="8.0.8" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.8" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.8">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Areas\CityController\Controllers\" />
+      <Folder Include="Areas\CityController\Data\" />
+      <Folder Include="Areas\CityController\Models\" />
+      <Folder Include="Areas\CityController\Views\" />
+      <Folder Include="Areas\GeoPageController\Controllers\" />
+      <Folder Include="Areas\GeoPageController\Data\" />
+      <Folder Include="Areas\GeoPageController\Models\" />
+      <Folder Include="Areas\GeoPageController\Views\" />
+      <Folder Include="Controllers\Api\" />
+      <Folder Include="Migrations\" />
+      <Folder Include="wwwroot\storage\colors\" />
+      <Folder Include="wwwroot\storage\configuration_colors\" />
+    </ItemGroup>
+
+</Project>

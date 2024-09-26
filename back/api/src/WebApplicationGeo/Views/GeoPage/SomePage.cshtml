@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Get first page";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Data for build form</p>
+
+<div>
+    <select id="lstCountries"></select>
+</div>
+<div>
+    <select id="lstAreas"></select>
+</div>
+
+<script>
+    
+    const lstCountries = document.getElementById("lstCountries");
+    const lstAreas = document.getElementById("lstAreas");
+    
+    function loadCountries() {
+        fetch('/api/ApiCountries/')
+        .then(res => res.json())
+        .then(data => {
+            data.map( c => {
+            console.log(c)
+                let option = document.createElement('option')
+                option.value = c.id
+                option.innerHTML = c.name
+                lstCountries.appendChild(option)
+            })
+        })
+        .catch(err => {
+        console.error(err)
+        } )
+    }
+    
+    loadCountries();
+    
+    lstCountries.onchange = (ev) => {
+    console.log(ev.clientX)
+    console.log(ev.clientY)
+        let countryId = ev.target.value
+        // let countryId = lstCountries.value 
+        console.log("CountryId = " +  countryId)
+        fetch('/api/ApiGetAreaByCountry/' + countryId)
+        .then(res => res.json())
+        .then(data => {
+            lstAreas.innerHTML = ''
+            data.map( c => {
+                console.log(c)
+                let option = document.createElement('option')
+                option.value = c.id
+                option.innerHTML = c.name
+                lstAreas.appendChild(option)
+            })
+        })
+    }
+    
+    
+    
+</script>

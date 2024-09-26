@@ -1,0 +1,11 @@
+@{
+    ViewBag.Title = "Show form for Add region";
+    Layout = "_Layout";
+}
+
+<h2> Add new Region </h2>
+
+<form asp-controller="RegionHandMade" asp-action="SaveToDataBase">
+    <input name="name" type="text"/>
+    <input type="submit"/>
+</form>

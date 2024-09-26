@@ -1,0 +1,146 @@
+﻿@model WebApplicationGeo.Models.Cars.Toyota.ColorModel
+@{
+    ViewData["Title"] = "Color Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Colors</h1>
+    <div>
+        <table>
+            <tbody id="tblColors">
+            </tbody>
+        </table>
+    </div>
+
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form action="/api/ApiColor" method="post" 
+                  enctype="multipart/form-data" name="frmCreateColor">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="control-label"></label>
+                    <input asp-for="Name" class="form-control" />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="RGB" class="control-label"></label>
+                    <input asp-for="RGB" class="form-control" type="color"/>
+                    <span asp-validation-for="RGB" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="file" name="file" accept="image/png, image/jpeg"/>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Code" class="control-label"></label>
+                    <input asp-for="Code" class="form-control" />
+                    <span asp-validation-for="Code" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    const frmCreateColor = document.forms.frmCreateColor;
+    
+    frmCreateColor.onsubmit = (ev) => {
+        ev.preventDefault();
+        
+        const frmData = new FormData(frmCreateColor)
+        
+        fetch('/api/ApiColor/', {
+            method: 'POST',
+            body: frmData 
+        })
+        .then( res => {
+            console.log (res.status)
+            console.log (res.statusText)
+            return res.json()
+        })
+        .then( result => {
+            console.log(result)
+        })
+        .catch(err => {
+            console.error (err)
+        })
+        
+        return false;
+    } 
+    
+</script>
+
+
+
+
+<script>
+    
+    const tBody = document.getElementById('tblColors');
+    let data = [];
+    let paginate = {};
+    
+    function buildTable() {
+    
+        data.map(item => {
+            let tr = document.createElement('tr');
+            
+            let tdName = document.createElement('td');
+            tdName.innerText = item.name
+            tr.appendChild(tdName)
+
+            let tdColorImg = document.createElement('td');
+            tdColorImg.innerHTML = '<img height="50" width="50" class="rounded-circle" src="' + item.url + '" />';
+            tr.appendChild(tdColorImg)
+
+            let tdColor = document.createElement('td');
+            tdColor.style.backgroundColor =  item.rgb;
+            tdColor.innerText = item.rgb;
+            tr.appendChild(tdColor)
+            
+            let tdCode = document.createElement('td');
+            tdCode.innerText = item.code;
+
+            let tdOperation = document.createElement('td');
+            let spanDel = document.createElement('span')
+            spanDel.innerHTML = ' - '
+            spanDel.id = item.id
+            spanDel.onclick = (ev) => {
+                fetch('/api/ApiColor/' + ev.target.id , {
+                method: 'DELETE'
+                })
+                .then(res => {
+                console.log(res.status)
+                })
+                .catch(err => {
+                console.error(err)
+                })
+            }
+            
+            tdOperation.appendChild(spanDel)
+            tr.appendChild(tdOperation)
+            
+            tr.appendChild(tdCode)
+            
+            tBody.appendChild(tr)
+        })
+    
+                
+    }
+    
+    fetch('/api/ApiColor')
+    .then(res => res.json())
+    .then(res => {
+        data = res.data;
+        paginate = res.paginate;
+        buildTable();
+    })
+    .catch(err => {
+        console.err(err)
+    })
+    
+
+
+</script>
